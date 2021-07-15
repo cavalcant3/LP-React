@@ -1,3 +1,3 @@
 # LP-React
 
-projeto feito para estudos..
+projeto feito para estudos.
